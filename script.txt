@@ -1,0 +1,8 @@
+#!/home/students/griffin/CISC3595/lab/myshell
+#Other simple command lines
+pwd
+ls
+cp Hello Hello.bak
+echo "Hello world!"
+ls -l 
+exit
